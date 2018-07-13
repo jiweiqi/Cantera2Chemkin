@@ -1,0 +1,1 @@
+The model is refered to Konnov CNF 2008
